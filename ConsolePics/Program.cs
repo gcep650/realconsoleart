@@ -21,11 +21,11 @@ namespace ConsolePics
             ReadLine();
 
             WriteLine("||||||||\t|||||||||||\t _______");
-            WriteLine("||||||||\t |||||||||\t/\t\\");
-            WriteLine("||||||||\t  |||||||      /\t \\");
-            WriteLine("||||||||\t   |||||      /\t\t  \\");
-            WriteLine("||||||||\t    |||       \\\t	  /");
-            WriteLine("||||||||\t     |	       \\\t /");
+            WriteLine("||||||||\t |||||||||\t/|||||||\\");
+            WriteLine("||||||||\t  |||||||      /|||||||||\\");
+            WriteLine("||||||||\t   |||||      /|||||||||||\\");
+            WriteLine("||||||||\t    |||       \\|||||||||||/");
+            WriteLine("||||||||\t     |	       \\|||||||||/");
             WriteLine("||||||||\t                \\_______/");
             WriteLine("\n");
             ReadLine();
